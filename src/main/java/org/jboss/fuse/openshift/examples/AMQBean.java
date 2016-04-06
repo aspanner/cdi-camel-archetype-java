@@ -20,7 +20,7 @@ import javax.inject.Singleton;
 
 @Singleton
 @Named("AMQBean")
-public class SomeBean {
+public class AMQBean {
 
     private int counter;
 
